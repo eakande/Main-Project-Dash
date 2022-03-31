@@ -21,3 +21,4 @@ oyaml
 click
 waitress
 flask_simplelogin
+Werkzeug
