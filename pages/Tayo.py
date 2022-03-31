@@ -14,7 +14,6 @@ from explainerdashboard.custom import*
 from dash_bootstrap_components.themes import FLATLY, CYBORG,PULSE,DARKLY
 
 import dash_bootstrap_components as dbc
-import MySQLdb
 import streamlit.components.v1 as components
 
 # Custom classes
