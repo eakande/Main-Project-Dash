@@ -12,7 +12,6 @@ gunicorn
 jupyter_dash
 dtreeviz
 numpy
-MySQL
 pandas
 scikit-learn
 shap
