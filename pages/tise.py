@@ -6,5 +6,5 @@ def app():
     Set appearance to wide mode.
     """
 
-    dashboardurl = 'http://192.168.0.9:8050/'
+    dashboardurl = 'http://127.0.0.1:8050/'
     st.components.v1.iframe(dashboardurl, width=1100, height=1100, scrolling=True)
