@@ -11,6 +11,12 @@ from pages import data_upload, machine_learning, metadata, data_visualize, redun
 app = MultiPage()
 
 # Title of the main page
+
+st.set_page_config(
+    page_title='Macroeconomic',
+    # layout="wide"
+)
+
 display = Image.open('Logo.jpeg')
 display = np.array(display)
 col1, col2 = st.columns(2)
