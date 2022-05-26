@@ -13,7 +13,7 @@ app = MultiPage()
 # Title of the main page
 
 st.set_page_config(
-    page_title='Macroeconomic',
+    page_title='Macroeconomic Dasboard Explainer',
     # layout="wide"
 )
 
