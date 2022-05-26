@@ -48,7 +48,7 @@ def app():
 
         # Option to select predition type 
         pred_type = st.radio("Select the type of process you want to run.", 
-                            options=["RRandom Forest", "XgBoosting"],
+                            options=["Random Forest", "XgBoosting"],
                             help="Write about reg and classification")
 
         # Add to model parameters 
